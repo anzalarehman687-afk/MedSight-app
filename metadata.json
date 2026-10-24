@@ -1,0 +1,6 @@
+{
+  "name": "MedSight",
+  "description": "Visual AI for medical assessment prototype featuring camera movement analysis and digital radiograph inspection.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
